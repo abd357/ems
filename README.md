@@ -22,7 +22,6 @@ A full-stack Employee Management System built with **Laravel (backend)** and **V
 git clone https://github.com/abd357/ems.git
 cd ems
 
-### Setting up the project
 composer install
 cp .env.example .env
 php artisan key:generate
